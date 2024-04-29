@@ -10,9 +10,10 @@
 
 Pleasured to meet you!👋
 
-I'm Nathania Saphira, a software engineer with three years of professional experience across diverse industries. </br>
-My expertise primarily lies in Backend, with extensive experience in Web, App, and Game development across multiple platforms, particularly with Cloud Infrastructure. 
-Additionally, I have contributed to AI research projects, gaining proficiency with Deep Learning (CNN), Supervised Learning, Reinforcement Learning, and Optical Character Recognition (OCR).
+I'm Nathania Saphira, a software engineer with nearly three years of experience in Backend development across various industries. </br>
+I specialize in Web, App, and Game development, particularly with Cloud Infrastructure. 
+In my previous role, I authored numerous documents, tutorials, and reports to support clients with service development and integrations. 
+Additionally, I've also contributed to AI research projects, focusing on Deep Learning, Supervised Learning, Reinforcement Learning, and Optical Character Recognition (OCR).
 
 ### 🪛 Tech Stack
 
@@ -37,7 +38,7 @@ Additionally, I have contributed to AI research projects, gaining proficiency wi
 
 ### 📞 Contact
 
-I'm actively looking for a new opportunity!
+I'm actively looking for a new opportunity! </br>
 Feel free to contact me here for further discussion: </br>
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniasaphira/)
 
