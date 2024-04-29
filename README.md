@@ -3,8 +3,7 @@
 -->
 
 <h2 align="center">
-  Hello! </br>
-  Get to know me, Nathania! 😊
+  Hello! 😊
 </h2>
 
 ### 📔 Introduction
