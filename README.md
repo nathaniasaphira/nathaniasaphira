@@ -11,7 +11,7 @@
 I'm Nathania, a software engineer with nearly three years of experience in Backend development across various industries. </br>
 I specialize in Web, App, and Game development, particularly with Cloud Infrastructure. 
 In my previous role, I contributed to developing and planning many projects, authored numerous documents, tutorials, and reports to support clients with service development and integrations. 
-I've also contributed to AI research projects, focusing on Deep Learning, Supervised Learning, Reinforcement Learning, and Optical Character Recognition (OCR).
+I've also contributed to AI research projects, focusing on Deep Learning (CNN), Supervised Learning, Reinforcement Learning, OCR/NLP.
 
 ### 🪛 Tech Stack
 
